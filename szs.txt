@@ -1,0 +1,7 @@
+Meta Datos
+
+    <meta name="description" content="Pagina con responsive design">
+    <meta property="og:image" content="Imagen.jpg">
+    <meta property="og:description" content="Pagina con responsive design">
+    <meta property="og:title" content="Desarrollo Web">
+    <meta name="author" content="Stiven Cano Aguirre">
